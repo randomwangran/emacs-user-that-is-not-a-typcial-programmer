@@ -5,7 +5,7 @@ I think it's up to each user's perspecitve.
 
 For me, I like to know the people and want to be a friend who share the similar idea.
 
-Emacs is such a tool that I feel that I like the people the way they think.
+Emacs is such a tool connect with us.
 
 It opens a door to a new world, for me.
 

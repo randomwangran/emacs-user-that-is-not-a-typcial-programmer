@@ -13,6 +13,8 @@ It opens a door to a new world, for me.
 
 # 全世界的道友   https://github.com/caisah/emacs.dz
 
+## Filmmaker
+https://github.com/rnkn/.config/tree/master/emacs
 
 ## 基因工程高手
 
